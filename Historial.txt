@@ -1,0 +1,444 @@
+  ...
+
+  136  mkdir parcial1
+  137  ll
+  138  cd parcial1/
+  139  vim puntoa.sh
+  140  ll
+  141  vim puntob.sh
+  142  vim puntoc.sh
+  143  vim puntod.sh
+  144  vim puntoe.sh
+  145  vim puntof.sh
+  146  tree
+  147  man grep
+  148  vim puntoa.sh 
+  149  ./puntoa.sh
+  150  sudo chmod 755 puntoa.sh
+  151  ./puntoa.sh
+  152  sudo chmod 777 puntoa.sh
+  153  ./puntoa.sh
+  154  sudo ./puntoa.sh
+  155  ll
+  156  cd
+  157  ll
+  158  cd parcial1/
+  159  tree
+  160  ./puntoa.sh
+  161  sudo su
+  162  bash puntoa.sh 
+  163  vim puntoa.sh 
+  164  tree
+  165  ./ puntoa.sh 
+  166  ./puntoa.sh 
+  167  ll
+  168  cd
+  169  tree
+  170  cd parcial1/
+  171  ll
+  172  vim puntoa.sh 
+  173  mkdir -p /Examenes-UTN/{alumno_1,alumno_2,alumno_3}/{parcial_1,parcial_2,parcial_3},profesores
+  174  tree
+  175  cd
+  176  ll
+  177  tree
+  178  exit
+  179  tree
+  180  cd parcial1/
+  181  tree
+  182  ./puntoa.sh 
+  183  tree
+  184  cd
+  185  tree
+  186  touch archivopaa.txt
+  187  ll
+  188  del archivopaa.txt 
+  189  rm archivopaa.txt 
+  190  rm archivo1 
+  191  cd parcial1/
+  192  tree
+  193  mkdir -p /Examenes-UTN/{alumno_1,alumno_2,alumno_3}/{parcial_1,parcial_2,parcial_3},profesores
+  194  tree
+  195  mkdir -p Home/Vagrant/Examenes-UTN/{alumno_1,alumno_2,alumno_3}/{parcial_1,parcial_2,parcial_3},profesores
+  196  tree
+  197  rm /home/
+  198  deldir
+  199  rmdir Home/
+  200  rm -r /Home
+  201  rm -r home
+  202  rmdir -r Home/
+  203  rm -r /Home/Vagrant
+  204  cd
+  205  rm -r parcial1/
+  206  ll
+  207  mkdir parcial1
+  208  cd parcial1/
+  209  mkdir -p Examenes-UTN/{{alumno_1,alumno_2,alumno_3}/{parcial_1,parcial_2,parcial_3},profesores}
+  210  tree
+  211  cd
+  212  tree
+  213  history
+  214  ll
+  215  cd
+  216  cd parcial1/
+  217  tree
+  218  vim puntoa.sh 
+  219  tail history | grep -i "mkdir" >> puntoa.sh 
+  220  tail /Home/Vagrant/.bash.history | grep -i "mkdir" >> puntoa.sh 
+  221  cd
+  222  la
+  223  ll
+  224  cat .bash_history | tail | grep -i "mkdir -p" >> parcial1/puntoa.sh 
+  225  cd parcial1/
+  226  vim puntoa.sh 
+  227  cd parcial1/
+  228  tree
+  229  sudo chmod 777 puntoa.sh 
+  230  ll
+  231  rm -r puntoa.sh.swo
+  232  cd
+  233  rm .puntoa.sh.swo
+  234  rm puntoa.sh.swo
+  235  rm -r parcial1/
+  236  mkdir parcial1
+  237  mkdir -p Examenes-UTN/{{alumno_1,alumno_2,alumno_3}/{parcial_1,parcial_2,parcial_3},profesores}
+  238  vim puntoa.sh
+  239  vim puntoa.sh 
+  240  tree
+  241  cd
+  242  cat /etc/passwd
+  243  cat /etc/group
+  244  cd
+  245  cd parcial1/
+  246  tree
+  247  chmod 775 puntoc.sh 
+  248  tree
+  249  vim puntoc.sh 
+  250  ./puntoc.sh 
+  251  vim puntoc.sh 
+  252  vim puntod.sh
+  253  tree
+  254  chmod 755 puntod.sh 
+  255  tree
+  256  mkdir - p /Estructura_Asimetrica/{correo,clientes}
+  257  mkdir - p Estructura_Asimetrica/{correo,clientes}
+  258  mkdir - p estructura_asimetrica/{correo,clientes}
+  259  sudo mkdir - p estructura_asimetrica/{correo,clientes}
+  260  sudo mkdir -p estructura_asimetrica/{correo,clientes}
+  261  tree
+  262  sudo rm estructura_asimetrica/
+  263  sudo rm -r estructura_asimetrica/
+  264  sudo mkdir -p estructura_asimetrica/{correo,clientes}/{cartas_1...cartas_50}
+  265  tree
+  266  rm estructura_asimetrica/
+  267  rm -r estructura_asimetrica/
+  268  tree
+  269  sudo rm -r /estructura_asimetrica
+  270  sudo rm -r estructura_asimetrica
+  271  tree
+  272  sudo mkdir -p estructura_asimetrica/{{clientes,correo/{carteros_1..carteros_10}}}/{cartas_1..cartas_50}
+  273  tree
+  274  cd estructura_asimetrica/
+  275  tree
+  276  cd clientes
+  277  cd \{clientes\}/
+  278  tree
+  279  cd
+  280  cd parcial1/
+  281  sudo rm -r estructura_asimetrica
+  282  tree
+  283  cd p
+  284  tree
+  285  cd ..
+  286  rm -r p
+  287  tree
+  288  mkdir -p Estructura_Asimetrica/{correo/{cartas_{1..50},carteros_{1..10}},clientes/cartas_{1..50}}
+  289  tree
+  290  ll
+  291  vim puntod.sh 
+  292  fdisk -f
+  293  fdisk
+  294  lsblk
+  295  lsblk -f
+  296  sudo chown disenadores:grupodisenadores profesores
+  297  sudo chmod 775 profesores
+  298  su disenadores
+  299  sudo chown analistas:grupoanalistas alumno_3
+  300  sudo chmod 700 alumno_3
+  301  su analistas
+  302  sudo chown testers:grupotester alumno_2
+  303  sudo chmod 760 alumno_2
+  304  testers
+  305  su testers
+  306  sudo chmod 750 /alumno_1
+  307  cd ..
+  308  sudo chmod 750 /alumno_1
+  309  sudo chmod 750 alumno_1
+  310  su testers
+  311  cd parcial1/
+  312  tree
+  313  cd Examenes-UTN/
+  314  chown programadores:grupoprogramadores alumno_1
+  315  sudo chown programadores:grupoprogramadores alumno_1
+  316  cd alumno_1
+  317  su programadores
+  318  tree
+  319  lsblk
+  320  lsblk -f
+  321  cd /mnt/
+  322  tree
+  323  mount dev/sdc1 /mnt/sdc1
+  324  mount dev/sdc1 /sdc1
+  325  mount dev/sdc1 mnt/sdc1
+  326  mount dev/sdc1 /mnt/disco_parcial/sdc1
+  327  sud omount dev/sdc1 /mnt/disco_parcial/sdc1
+  328  sudo mount dev/sdc1 /mnt/disco_parcial/sdc1
+  329  lsblk
+  330  lsblk -f
+  331  cd
+  332  cd parcial1/
+  333  ./puntob.sh 
+  334  sudo mount /dev/sdc1 /mnt/disco_parcial/sdc1
+  335  sudo mount /dev/sdc2 /mnt/disco_parcial/sdc2
+  336  sudo mount /dev/sdc3 /mnt/disco_parcial/sdc3
+  337  sudo mount /dev/sdc4 /mnt/disco_parcial/sdc4
+  338  lsblk -f
+  339  halt
+  340  vagrant halt
+  341  exit
+  342  cd parcial1/
+  343  tree
+  344  ./puntoc.sh 
+  345  cd parcial1/
+  346  tree
+  347  cat Filtro_Basico.txt
+  348  sudo rm -r Filtro_Basico.txt 
+  349  TREE
+  350  tree
+  351  vim puntoe.sh 
+  352  touch Filtro_Basico.txt
+  353  grep "MemTotal" /proc/meminfo | head -n 1 >> Filtro_Basico.txt
+  354  cat Filtro_Basico.txt 
+  355  Sudo dmidecode -t
+  356  sudo dmidecode -t
+  357  sudo dmidecode chassis -t
+  358  chassis
+  359  sudo dmidecode -t chassis
+  360  sudo dmidecode -t chassis >> Filtro_Basico.txt
+  361  cat Filtro_Basico.txt 
+  362  vim Filtro_Basico.txt
+  363  sudo dmidecode -t chassis | grep "Chassis Information" -A 10 >> Filtro_Basico.txt
+  364  cat Filtro_Basico.txt
+  365  vim puntoe.sh 
+  366  ./ puntoe.sh
+  367  ./puntoe.sh 
+  368  vim puntoe.sh
+  369  vim puntoa.sh 
+  370  vim puntob.sh
+  371  vim puntoc.sh
+  372  /passwd pepe
+  373  sudo passwd pepe
+  374  sudo delgroup grupoprogramadores
+  375  sudo delgroup grupotesters
+  376  sudo delgroup grupotester
+  377  sudo delgroup grupodisenadores
+  378  sudo delgroup grupo
+  379  sudo delgroup grupoanalistas
+  380  sudo deluser programadores
+  381  sudo deluser analistas
+  382  sudo deluser testers
+  383  sudo deluser profesores
+  384  sudo deluser disenadores
+  385  cat /etc/group
+  386  cat /etc/passwd
+  387  tree
+  388  vim puntoc.sh
+  389  sudo passwd pepe
+  390  vim puntoc.sh
+  391  vim puntoa.sh 
+  392  vim puntob.sh 
+  393  puntoc.sh
+  394  vim puntoc.sh
+  395  rm - r Estructura_Asimetrica/
+  396  rmdir - r Estructura_Asimetrica/
+  397  rmdir - R Estructura_Asimetrica/
+  398  rmdir - rf Estructura_Asimetrica/
+  399  rmdir - r -f Estructura_Asimetrica/
+  400  rm - r -f Estructura_Asimetrica/
+  401  rm -r -f Estructura_Asimetrica/
+  402  tree
+  403  vim puntoc.sh 
+  404  vim puntoa.sh 
+  405  rm -r -f Examenes-UTN/
+  406  rm -r -f Filtro_Basico.txt
+  407  tree
+  408  vim puntoa.sh 
+  409  vim puntob.sh 
+  410  fdisk /dev/sdc
+  411  sudo fdisk /dev/sdc
+  412  vim puntob.sh 
+  413  history
+  414  tree
+  415  vim puntob.sh 
+  416  vim puntoc.sh 
+  417  ./puntoa.sh
+  418  tree
+  419  rm -r -f Examenes-UTN/
+  420  tree
+  421  vim puntob.sh
+  422  ./puntob.sh
+  423  vim puntob.sh 
+  424  ./puntob.sh
+  425  vim puntob.sh 
+  426  ./puntob.sh
+  427  vim puntob.sh 
+  428  ./puntob.sh
+  429  vim puntob.sh 
+  430  sudo fdisk /dev/sdc
+  431  vim puntob.sh 
+  432  sudo fdisk /dev/sdc
+  433  vim puntob.sh 
+  434  vim puntoc.sh 
+  435  vim puntod.sh
+  436  vim puntoe.sh
+  437  ./puntoa.sh
+  438  ./puntob.sh
+  439  ./puntoc.sh
+  440  tree
+  441  vim puntoc.sh 
+  442  cat /etc/passwd
+  443  sudo delgroup grupoprogramadores
+  444  sudo delgroup grupoanalistas
+  445  sudo delgroup grupotesters
+  446  sudo delgroup grupotester
+  447  sudo delgroup grupodisenadores
+  448  sudo deluser programadores
+  449  sudo deluser analistas
+  450  sudo deluser testers
+  451  sudo deluser disenadores
+  452  ./puntoc.sh
+  453  sudo rm -r -f Examenes-UTN/
+  454  tree
+  455  sudo rm -r -f validar.txt
+  456  ./puntoa.sh 
+  457  ./puntoc.sh 
+  458  tree
+  459  su programadores
+  460  treesudosisdasss
+  461  su
+  462  vvagrant
+  463  vagrant
+  464  rtree
+  465  cd parcial1/
+  466  tree
+  467  sudo deluser programadores
+  468  cat /etc/passwrd
+  469  cat /etc/passwd
+  470  vim puntob.sh
+  471  vim puntoc.sh
+  472  vim puntod.sh
+  473  vim puntoe.sh
+  474  ./puntoe.sh 
+  475  tree
+  476  cat Filtro_Basico.txt
+  477  rm -r -f Filtro_Basico.txt
+  478  tree
+  479  cd parcial1/
+  480  tree
+  481  sudo deluser -r -f programadores
+  482  sudo deluser programadores
+  483  sudo deluser analistas
+  484  sudo deluser testers
+  485  cat /etc/passwd
+  486  tree
+  487  vim puntoc.sh 
+  488  tree
+  489  cd parcial1/
+  490  tree
+  491  vim puntoc.sh 
+  492  fdisk /dev/sdc
+  493  sudo fdisk /dev/sdc
+  494  vim puntoc.sh 
+  495  vim puntob.sh 
+  496  cd /mnt/
+  497  tree
+  498  rm -r -f disco_parcial/
+  499  sudo rm -r -f disco_parcial/
+  500  tree
+  501  cd
+  502  part
+  503  cd
+  504  tree
+  505  cd parcial1/
+  506  tree
+  507  vim puntoe.sh 
+  508  ./puntoe.sh 
+  509  tree
+  510  cat Filtro_Basico.txt 
+  511  sudo rm -r -f Filtro_Basico.txt 
+  512  TREE
+  513  tree
+  514  rm -r -f :wq
+  515  tree
+  516  clear
+  517  cd
+  518  cd parcial1/
+  519  tree
+  520  clear
+  521  sudo su
+  522  halt
+  523  exit
+  524  tree
+  525  man rm
+  526  rm -r Examenes-UTN/
+  527  tree
+  528* cd hol
+  529* tre
+  530  cd
+  531  rm -r hola/
+  532  rm -r mundo/
+  533  tree
+  534  cd parcial1/
+  535  curl -s ifconfig.me
+  536  cd
+  537  cd parcial1/
+  538  touch Filtro_Avanzado.txt
+  539  echo "Mi IP Publica es: {curl -s ifconfig.me}" >> Filtro_Avanzado.txt
+  540  cat Filtro_Avanzado.txt 
+  541  echo "Mi IP Publica es:" | {curl -s ifconfig.me} >> Filtro_Avanzado.txt
+  542  echo "Mi IP Publica es:" | curl -s ifconfig.me >> Filtro_Avanzado.txt
+  543  cat Filtro_Avanzado.txt
+  544  rm -r Filtro_Avanzado.txt 
+  545  vim puntof.sh
+  546  tree
+  547  sudo chmod 755 puntof.sh 
+  548  tree
+  549  ./puntof.sh
+  550  tree
+  551  cat Filtro_Avanzado.txt
+  552  man grep
+  553  rm -r Filtro_Avanzado.txt
+  554  vim puntof.sh
+  555  history -a
+  556  tree
+  557  cat history
+  558  bash history
+  559  ./history
+  560  git init
+  561  git branch -m main
+  562  git init
+  563  git add README.md
+  564  git commit -m "Commit N°"
+  565  git add .
+  566  git commit -m
+  567  git commit -m "Trabajo Completo"
+  568  git remote add origin git@github.com:LucasLaruffa/AySO-Parcial1-LaruffaLucas.Div312.git
+  569  git push -u origin main
+  570  history-a
+  571  history -a
+  572  tree
+  573  .bash_history
+  574  cat .bash_history
+  575  bash_history
+  576  ./bash_history
+  577  history > Historial.txt
